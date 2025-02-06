@@ -1,0 +1,69 @@
+.Mountain{
+    Height:4000px;
+    width: 500px;
+  }
+  .profile picture{
+    Width:150px;
+    height:150px;
+    border-radius:50%;
+    margin-bottom:20px;
+
+  }
+  body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    border: 5px solid black;
+  }
+  h1{
+    color:yellowgreen;
+  }
+  h2{
+    color:yellowgreen;
+    text-align:center;
+  }
+ .button{
+   padding: 10px 20px;
+   background-color: #66BFBF;
+   color: white;
+   border: none;
+   cursor: pointer;
+   font-size: 16px;
+ }
+  .laptop{
+    float: left;
+    float:left;
+    height:150px;
+    width:150px;
+  }
+  .guitar{
+    float:left;
+    float:left;
+    height:150px;
+    width:150px;
+  }
+  
+ .contact-button {
+ display:15px 30px;
+ font-size:18px;
+ text-align: center;
+ }
+ .chalenge{
+   float:left;
+   float:left;
+   height:150px;
+   width:150px;
+ }
+ .slow{
+   float: left;
+   float:left;
+   height:150px;
+   width: 150px;
+ }
+ .footer{
+   background-color:#66FBFB;
+   color:white;
+   padding:10px;
+ }
